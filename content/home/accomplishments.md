@@ -39,24 +39,6 @@ item:
     url: ''
 
   - certificate_url: ''
-    date_start: '2023-01-01'
-    date_end: ''
-    description: ''
-    organization: ITSF (International Table Soccer Federation)
-    organization_url: https://www.tablesoccer.org/
-    title: Pro Tour Champion
-    url: ''
-
-  - certificate_url: ''
-    date_start: '2022-06-01'
-    date_end: ''
-    description: ''
-    organization: National Championship
-    organization_url: ''
-    title: National Champion - Doubles
-    url: ''
-
-  - certificate_url: ''
     date_start: '2018-06-01'
     date_end: ''
     description: 'Winner of the best full paper award at the 14th International Conference on Intelligent Environments.'

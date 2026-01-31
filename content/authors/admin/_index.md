@@ -41,7 +41,7 @@ education:
     - course: MSc in Computer Science (Cum Laude)
       institution: University of Twente
       year: 2014
-    - course: BSc in Computer Science (Minor in Dutch Law)
+    - course: BSc in Computer Science
       institution: University of Twente
       year: 2011
 
@@ -68,8 +68,9 @@ user_groups:
   - Researchers
 ---
 
-I am a Staff Research Scientist and Tech Lead in the Central Applied Science (CAS) team at Meta. My research bridges the gap between scientific rigor and real-world impact, focusing on foundational challenges in machine learning and data science. I lead collaborative initiatives that drive value across Meta's products while maintaining active engagement with the academic community.
+I am a Staff Research Scientist at Meta (Central Applied Science), where I lead research on the foundations of reliable Machine Learning. My work focuses on Multicalibration, Causal Inference, and Process Mining, bridging the gap between theoretical guarantees and the engineering realities of web-scale systems. Previously, I worked on fraud detection at Booking.com and led research on concept drift. I am the author of 35+ peer-reviewed papers with over 2,500 citations.
 
-Previously, I held research and engineering roles at Booking.com and Philips Research, where I specialized in fraud detection, sequence modeling, and process mining.
-
-I have authored over 35 peer-reviewed publications, garnering more than 2,500 citations with an h-index of 21. I am deeply committed to the academic community, serving on Program Committees for top-tier conferences such as NeurIPS, FAccT, and BPM, and mentoring PhD interns. My teaching experience includes internal courses on causal inference and machine learning.
+**Research Interests:**
+*   **Reliability & Fairness:** Multicalibration, Uncertainty Quantification, Active Learning.
+*   **Sequence Modeling:** Process Mining, RNNs, Temporal Point Processes.
+*   **Causal Inference:** Causal Discovery, Treatment Effect Estimation, Interleaving.
